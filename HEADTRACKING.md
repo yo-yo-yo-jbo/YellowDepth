@@ -1,6 +1,6 @@
-# Head-tracked camera for ProjectRetro
+# Head-tracked camera for ProjectRetro \ YellowDepth
 
-Adds webcam **head-coupled perspective** to ProjectRetro: move your head and the
+Adds webcam **head-coupled perspective** to ProjectRetro \ YellowDepth: move your head and the
 in-game camera eye moves with it (focus stays on the player), so you can look
 around the 3D world. Because ProjectRetro is a real 3D engine, this is genuine
 head tracking — not a 2D skew.
