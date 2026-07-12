@@ -8,7 +8,7 @@ See demo video here: https://youtu.be/kwpmpdMzHes
 ## What does that mean?
 It means you can change the 3D perspective of the Pokemon Yellow game based on your head movement.  
 You'd need a camera for that - I only tested on my Mac device, but I believe a solution should be good regardless of OS.  
-See more on [HEADTRACKING.md] file.
+See more on [HEADTRACKING.md](HEADTRACKING.md) file.
 
 ## How to run
 - Build with the `build_local.sh` file (tested on a Mac only).
